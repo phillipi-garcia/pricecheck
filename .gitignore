@@ -1,2 +1,11 @@
+# Dependências
+node_modules/
+
+# Arquivos de sistema
+.DS_Store
 desktop.ini
 Icon?
+
+# Credenciais e variáveis de ambiente
+.env
+.env.*
